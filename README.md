@@ -4,7 +4,7 @@
 
 ### 🎬 Click the image to watch the demo
 
-[![Trust Vault](YOUR_IMAGE_URL_HERE)](https://youtu.be/OR2Ai4_dho0?si=OlAhyRaeyuJ0Qv5a)
+[![Trust Vault](https://github.com/Laxmisri2005/TrustVault-main/blob/d2679750810f9c56ecf9cf12869a88e3eb031fea/trustvault.png)](https://youtu.be/OR2Ai4_dho0?si=OlAhyRaeyuJ0Qv5a)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
