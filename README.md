@@ -20,8 +20,8 @@ A secure full-stack cloud-based vault system for managing sensitive data with au
 
 - 🔐 JWT-based authentication & middleware protection
 - 📊 Request logging via `logs/access.log`
-- ⚙️ Modular Express.js REST API
-- 🎨 Responsive Vite + Tailwind CSS frontend
+- ⚙️ REST API
+- 🎨 Responsive Vite 
 - 🔒 Environment variable security via `.env`
 
 ## 🛠️ Tech Stack
