@@ -28,8 +28,8 @@ A secure full-stack cloud-based vault system for managing sensitive data with au
 
 | Layer | Technology |
 |-------|-----------|
-| Frontend | React, Vite, Tailwind CSS |
-| Backend | Node.js, Express.js |
+| Frontend | React, Vite
+| Backend | Node.js
 | Security | JWT, Middleware, dotenv |
 | Logging | File-based (access.log) |
 
