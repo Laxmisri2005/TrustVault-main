@@ -7,10 +7,8 @@
 [![Trust Vault](https://github.com/Laxmisri2005/TrustVault-main/blob/d2679750810f9c56ecf9cf12869a88e3eb031fea/trustvault.png)](https://youtu.be/OR2Ai4_dho0?si=OlAhyRaeyuJ0Qv5a)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
